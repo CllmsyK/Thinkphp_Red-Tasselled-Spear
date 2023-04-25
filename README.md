@@ -1,5 +1,7 @@
 # Top&NSdemon Thinkphp Red-tasselled spear(红缨枪)
 
+已发布在Q群，不定时删除，仅供学习，只为了小范围互相交流
+
 1.Attack ALL Check 2.x-6.x POC(139);
 
 2.Sustain  Http/Https;
