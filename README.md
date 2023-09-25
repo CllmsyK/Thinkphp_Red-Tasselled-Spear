@@ -1,4 +1,4 @@
-# Top&NSdemon Thinkphp Red-tasselled spear(红缨枪)
+# Thinkphp Red-tasselled spear(红缨枪)
 
 已发布在Q群，不定时删除，仅供学习，只为了小范围互相交流
 
@@ -21,8 +21,6 @@
 9.目前已知Bug:部分payload请求特殊符号被转义,但漏洞确为存在;
 
 Tools By：Cllmsy_K;
-
-Bilibili：https://space.bilibili.com/494577303?spm_id_from=666.25.0.0;
 
 Q群：838681355;
 
